@@ -1,11 +1,3 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-
-
->>>>>>> d599dba89a97b955850e2e13b399e551f584a415
 # Psallinks Documentation
 
 **Psallinks** is a Cambodian lead generation marketplace connecting buyers and sellers of physical goods.  
@@ -82,4 +74,4 @@ This repository contains **all core documentation** for the platform, including 
 ---
 
 ## 📅 Last Updated
-- **
+- *(Add date when last updated)*
