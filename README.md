@@ -1,4 +1,3 @@
-Absolutely! Here’s the **entire polished README.md** wrapped in a code block so you can copy-paste directly:
 
 
 # Psallinks Documentation
